@@ -1,3 +1,5 @@
 ```reStructuredText
-`javascript:alert(document.domain) <http://example.com>`_
+
+`javascript:alert(document.domain) <javascript:alert(document.domain)>`_
+
 ```
