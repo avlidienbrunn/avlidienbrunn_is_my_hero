@@ -1,1 +1,1 @@
-`javascript:alert(document.domain) <http://alert(document.domain)>`_
+`javascript:alert(document.domain) <data://alert(document.domain)>`_
